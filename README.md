@@ -1,6 +1,6 @@
 # projetos-scratch
 <p>links de jogos construídos no scratch</p>
-Pong fundo do mar
+<p>Pong fundo do mar</P>
 https://scratch.mit.edu/projects/650204096/editor/
-Caminhos do Gato
+<p>Caminhos do Gato</>
 https://scratch.mit.edu/projects/682148287/
